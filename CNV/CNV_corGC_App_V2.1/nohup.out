@@ -1,0 +1,1263 @@
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmphUOT0B/Rf1902b150060f4': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8225
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+载入需要的程辑包：DBI
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#24]
+   1: shiny::runApp
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8225
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+载入需要的程辑包：DBI
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in capitalize: 没有"capitalize"这个函数
+  170: as.graphicsAnnot
+  169: mtext
+  168: chromNumber [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#29]
+  167: renderPlot
+  165: func
+  125: drawPlot
+  111: <reactive:plotObj>
+   95: drawReactive
+   82: origRenderFunc
+   81: output$chr1_chrom
+    1: shiny::runApp
+载入需要的程辑包：lattice
+载入需要的程辑包：survival
+载入需要的程辑包：Formula
+
+载入程辑包：‘Hmisc’
+
+The following object is masked from ‘package:shinyjs’:
+
+    html
+
+The following object is masked from ‘package:plotly’:
+
+    subplot
+
+The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: File '/share_data/wujm/project/getFastaGC/WES.gc.txt' does not exist or is non-readable. getwd()=='/share_data/wujm/project/Shiny/CNV/CNV_corGC_App'
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#87]
+   1: shiny::runApp
+Warning: Error in data.table::fread: File '/share_data/wujm/project/getFastaGC/WES.gc.txt' does not exist or is non-readable. getwd()=='/share_data/wujm/project/Shiny/CNV/CNV_corGC_App'
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#87]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: File '/share_data/clin_result/clin_epilepsy_result/AnalysisPath/20200910/209/209.recal.filter.targetcoverage.cnn' does not exist or is non-readable. getwd()=='/share_data/wujm/project/Shiny/CNV/CNV_corGC_App'
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: File '/share_data/clin_result/clin_epilepsy_result/AnalysisPath/20200910/209/209.recal.filter.targetcoverage.cnn' does not exist or is non-readable. getwd()=='/share_data/wujm/project/Shiny/CNV/CNV_corGC_App'
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: File '/share_data/clin_result/clin_epilepsy_result/AnalysisPath/20200910/209/209.recal.filter.targetcoverage.cnn' does not exist or is non-readable. getwd()=='/share_data/wujm/project/Shiny/CNV/CNV_corGC_App'
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: File '/share_data/clin_result/clin_epilepsy_result/AnalysisPath/20200910/209/209.recal.filter.targetcoverage.cnn' does not exist or is non-readable. getwd()=='/share_data/wujm/project/Shiny/CNV/CNV_corGC_App'
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f1093c743': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f24c5819d': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f14de8b20': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f92e82f7': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f68c5e9e2': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f57026bce': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f7cfd6375': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f2dcf2ec9': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f7786adbf': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f6c025b18': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f5ac08757': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpH5A63I/Rf977f308bab1a': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8226
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+载入需要的程辑包：DBI
+载入需要的程辑包：lattice
+载入需要的程辑包：survival
+载入需要的程辑包：Formula
+
+载入程辑包：‘Hmisc’
+
+The following object is masked from ‘package:shinyjs’:
+
+    html
+
+The following object is masked from ‘package:plotly’:
+
+    subplot
+
+The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#418]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#308]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#308]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#308]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#418]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#308]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#195]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)

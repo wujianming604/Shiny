@@ -1,0 +1,93 @@
+Loading required package: shiny
+
+Listening on http://192.168.99.7:8226
+
+Attaching package: ‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+Loading required package: shinyBS
+Loading required package: shinydashboard
+
+Attaching package: ‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+Loading required package: shinyjs
+
+Attaching package: ‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Loading required package: DBI
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+
+Attaching package: ‘Hmisc’
+
+The following object is masked from ‘package:shinyjs’:
+
+    html
+
+The following object is masked from ‘package:plotly’:
+
+    subplot
+
+The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+Warning: Error in data.table::fread: File '/share_data/clin_result/clin_epilepsy_result/AnalysisPath/20210302/550/550.recal.filter.targetcoverage.cnn' does not exist or is non-readable. getwd()=='/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2'
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: File '/share_data/clin_result/clin_epilepsy_result/AnalysisPath/20210302/550/550.recal.filter.targetcoverage.cnn' does not exist or is non-readable. getwd()=='/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2'
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+Warning: Error in data.table::fread: File '/share_data/clin_result/clin_epilepsy_result/AnalysisPath/20210302/550/550.recal.filter.targetcoverage.cnn' does not exist or is non-readable. getwd()=='/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2'
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in data.table::fread: input= must be a single character string containing a file name, a system command containing at least one space, a URL starting 'http[s]://', 'ftp[s]://' or 'file://', or, the input data itself containing at least one \n or \r
+  74: stop
+  73: data.table::fread
+  72: observeEventHandler [/share_data/wujm/project/Shiny/CNV/CNV_corGC_App_V2/server.R#84]
+   1: shiny::runApp
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning: Error in : Aesthetics must be either length 1 or the same as the data (1): x and y
+  111: <Anonymous>
+`summarise()` ungrouping output (override with `.groups` argument)
