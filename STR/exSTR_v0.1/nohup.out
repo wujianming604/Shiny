@@ -1,0 +1,461 @@
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Warning: 关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: replacing previous import ‘checkmate::assert’ by ‘testit::assert’ when loading ‘exSTRa’
+
+载入程辑包：‘exSTRa’
+
+The following object is masked from ‘package:data.table’:
+
+    copy
+
+Warning in self$isLogging() :
+  关闭不再使用的链结7(/share_data/wujm/project/run_exSTR/run_WGS/sampleList.txt)
+Warning in self$isLogging() :
+  关闭不再使用的链结6(/share_data/wujm/project/run_exSTR/run_NUOHE/sampleList.txt)
+Warning in self$isLogging() :
+  关闭不再使用的链结5(/share_data/wujm/project/run_exSTR/run_WES_T192V1Plus/sampleList.txt)
+Warning in self$isLogging() :
+  关闭不再使用的链结4(/share_data/wujm/project/run_exSTR/run_WES_T192V1/sampleList.txt)
+Warning in self$isLogging() :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: Error in eval: 找不到对象'mlength'
+  77: eval
+  76: eval
+  75: with.default
+  73: read_score
+  72: observeEventHandler [/share_data/wujm/project/Shiny/STR/exSTR_v0.1/server.R#236]
+   1: shiny::runApp
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Warning in x :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: replacing previous import ‘checkmate::assert’ by ‘testit::assert’ when loading ‘exSTRa’
+
+载入程辑包：‘exSTRa’
+
+The following object is masked from ‘package:data.table’:
+
+    copy
+
+Warning in for (i in seq_along(cenv$extra)) { :
+  关闭不再使用的链结7(/share_data/wujm/project/run_exSTR/run_WGS/sampleList.txt)
+Warning in for (i in seq_along(cenv$extra)) { :
+  关闭不再使用的链结6(/share_data/wujm/project/run_exSTR/run_NUOHE/sampleList.txt)
+Warning in for (i in seq_along(cenv$extra)) { :
+  关闭不再使用的链结5(/share_data/wujm/project/run_exSTR/run_WES_T192V1Plus/sampleList.txt)
+Warning in for (i in seq_along(cenv$extra)) { :
+  关闭不再使用的链结4(/share_data/wujm/project/run_exSTR/run_WES_T192V1/sampleList.txt)
+Warning in for (i in seq_along(cenv$extra)) { :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Warning: 关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: replacing previous import ‘checkmate::assert’ by ‘testit::assert’ when loading ‘exSTRa’
+
+载入程辑包：‘exSTRa’
+
+The following object is masked from ‘package:data.table’:
+
+    copy
+
+Warning in for (name in names(public_methods)) lockBinding(name, public_bind_env) :
+  关闭不再使用的链结7(/share_data/wujm/project/run_exSTR/run_WGS/sampleList.txt)
+Warning in for (name in names(public_methods)) lockBinding(name, public_bind_env) :
+  关闭不再使用的链结6(/share_data/wujm/project/run_exSTR/run_NUOHE/sampleList.txt)
+Warning in for (name in names(public_methods)) lockBinding(name, public_bind_env) :
+  关闭不再使用的链结5(/share_data/wujm/project/run_exSTR/run_WES_T192V1Plus/sampleList.txt)
+Warning in for (name in names(public_methods)) lockBinding(name, public_bind_env) :
+  关闭不再使用的链结4(/share_data/wujm/project/run_exSTR/run_WES_T192V1/sampleList.txt)
+Warning in for (name in names(public_methods)) lockBinding(name, public_bind_env) :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+    Reduced replicates to 249.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 124.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 124.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 124.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Warning in "before-end" %in% .noWS :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: replacing previous import ‘checkmate::assert’ by ‘testit::assert’ when loading ‘exSTRa’
+
+载入程辑包：‘exSTRa’
+
+The following object is masked from ‘package:data.table’:
+
+    copy
+
+Warning in list(...) :
+  关闭不再使用的链结7(/share_data/wujm/project/run_exSTR/run_WGS/sampleList.txt)
+Warning in list(...) :
+  关闭不再使用的链结6(/share_data/wujm/project/run_exSTR/run_NUOHE/sampleList.txt)
+Warning in list(...) :
+  关闭不再使用的链结5(/share_data/wujm/project/run_exSTR/run_WES_T192V1Plus/sampleList.txt)
+Warning in list(...) :
+  关闭不再使用的链结4(/share_data/wujm/project/run_exSTR/run_WES_T192V1/sampleList.txt)
+Warning in list(...) :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: Error in eval: 找不到对象'mlength'
+  77: eval
+  76: eval
+  75: with.default
+  73: read_score
+  72: observeEventHandler [/share_data/wujm/project/Shiny/STR/exSTR_v0.1/server.R#236]
+   1: shiny::runApp
+Warning: Error in eval: 找不到对象'mlength'
+  77: eval
+  76: eval
+  75: with.default
+  73: read_score
+  72: observeEventHandler [/share_data/wujm/project/Shiny/STR/exSTR_v0.1/server.R#236]
+   1: shiny::runApp
+Warning: Error in eval: 找不到对象'mlength'
+  77: eval
+  76: eval
+  75: with.default
+  73: read_score
+  72: observeEventHandler [/share_data/wujm/project/Shiny/STR/exSTR_v0.1/server.R#236]
+   1: shiny::runApp
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Warning in for (attrib in names(attribs)) { :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: replacing previous import ‘checkmate::assert’ by ‘testit::assert’ when loading ‘exSTRa’
+
+载入程辑包：‘exSTRa’
+
+The following object is masked from ‘package:data.table’:
+
+    copy
+
+Warning in for (i in seq_along(cenv$extra)) { :
+  关闭不再使用的链结7(/share_data/wujm/project/run_exSTR/run_WGS/sampleList.txt)
+Warning in for (i in seq_along(cenv$extra)) { :
+  关闭不再使用的链结6(/share_data/wujm/project/run_exSTR/run_NUOHE/sampleList.txt)
+Warning in for (i in seq_along(cenv$extra)) { :
+  关闭不再使用的链结5(/share_data/wujm/project/run_exSTR/run_WES_T192V1Plus/sampleList.txt)
+Warning in for (i in seq_along(cenv$extra)) { :
+  关闭不再使用的链结4(/share_data/wujm/project/run_exSTR/run_WES_T192V1/sampleList.txt)
+Warning in for (i in seq_along(cenv$extra)) { :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 124.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 124.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12

@@ -1,0 +1,623 @@
+Warning in Ops.factor(rep, mlength) : ‘/’ not meaningful for factors
+Warning: Error in setkeyv: some columns are not in the data.table: locus,sample
+  77: stop
+  76: setkeyv
+  75: setkey
+  74: exstra_tsum_new_
+  73: tsum_test
+  72: observeEventHandler [/share_data/wujm/project/Shiny/STR/exSTR_v0.1/server.R#299]
+   1: shiny::runApp
+assertion failed: The locus DRPLA was not found
+Warning: Error in : dim(x.info)[1] >= 1 is not TRUE
+  104: stop
+  103: assert2
+  102: assert
+  101: loci_text_info.exstra_db
+   98: plot.exstra_score
+   96: renderImage [/share_data/wujm/project/Shiny/STR/exSTR_v0.1/server.R#253]
+   95: func
+   82: origRenderFunc
+   81: output$single_locus
+    1: shiny::runApp
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Warning in for (attrib in names(attribs)) { :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: replacing previous import ‘checkmate::assert’ by ‘testit::assert’ when loading ‘exSTRa’
+
+载入程辑包：‘exSTRa’
+
+The following object is masked from ‘package:data.table’:
+
+    copy
+
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结7(/share_data/wujm/project/run_exSTR/run_WGS/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结6(/share_data/wujm/project/run_exSTR/run_NUOHE/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结5(/share_data/wujm/project/run_exSTR/run_WES_T192V1Plus/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结4(/share_data/wujm/project/run_exSTR/run_WES_T192V1/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Working on locus DRPLA
+    Reduced replicates to 499.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 499.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 124.
+Working on locus SBMA
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 499.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+Working on locus SCA12
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+createTcpServer: address not available
+Error in .subset2(public_bind_env, "initialize")(...) : 
+  Failed to create server
+Calls: <Anonymous> ... startApp -> startServer -> <Anonymous> -> <Anonymous>
+Execution halted
+Loading required package: shiny
+
+Listening on http://192.168.99.7:8221
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Warning: 关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: replacing previous import ‘checkmate::assert’ by ‘testit::assert’ when loading ‘exSTRa’
+
+载入程辑包：‘exSTRa’
+
+The following object is masked from ‘package:data.table’:
+
+    copy
+
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结7(/share_data/wujm/project/run_exSTR/run_WGS/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结6(/share_data/wujm/project/run_exSTR/run_NUOHE/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结5(/share_data/wujm/project/run_exSTR/run_WES_T192V1Plus/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结4(/share_data/wujm/project/run_exSTR/run_WES_T192V1/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Warning in for (child in children) tagWrite(child, textWriter, nextIndent) :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: replacing previous import ‘checkmate::assert’ by ‘testit::assert’ when loading ‘exSTRa’
+
+载入程辑包：‘exSTRa’
+
+The following object is masked from ‘package:data.table’:
+
+    copy
+
+Warning in match.fun(FUN) :
+  关闭不再使用的链结7(/share_data/wujm/project/run_exSTR/run_WGS/sampleList.txt)
+Warning in match.fun(FUN) :
+  关闭不再使用的链结6(/share_data/wujm/project/run_exSTR/run_NUOHE/sampleList.txt)
+Warning in match.fun(FUN) :
+  关闭不再使用的链结5(/share_data/wujm/project/run_exSTR/run_WES_T192V1Plus/sampleList.txt)
+Warning in match.fun(FUN) :
+  关闭不再使用的链结4(/share_data/wujm/project/run_exSTR/run_WES_T192V1/sampleList.txt)
+Warning in match.fun(FUN) :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: Error in eval: 找不到对象'mlength'
+  77: eval
+  76: eval
+  75: with.default
+  73: read_score
+  72: observeEventHandler [/share_data/wujm/project/Shiny/STR/exSTR_v0.1/server.R#237]
+   1: shiny::runApp
+Warning: Error in eval: 找不到对象'mlength'
+  77: eval
+  76: eval
+  75: with.default
+  73: read_score
+  72: observeEventHandler [/share_data/wujm/project/Shiny/STR/exSTR_v0.1/server.R#237]
+   1: shiny::runApp
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Warning in "outside" %in% .noWS :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: replacing previous import ‘checkmate::assert’ by ‘testit::assert’ when loading ‘exSTRa’
+
+载入程辑包：‘exSTRa’
+
+The following object is masked from ‘package:data.table’:
+
+    copy
+
+Warning in for (i in 1:codeCount) { :
+  关闭不再使用的链结7(/share_data/wujm/project/run_exSTR/run_WGS/sampleList.txt)
+Warning in for (i in 1:codeCount) { :
+  关闭不再使用的链结6(/share_data/wujm/project/run_exSTR/run_NUOHE/sampleList.txt)
+Warning in for (i in 1:codeCount) { :
+  关闭不再使用的链结5(/share_data/wujm/project/run_exSTR/run_WES_T192V1Plus/sampleList.txt)
+Warning in for (i in 1:codeCount) { :
+  关闭不再使用的链结4(/share_data/wujm/project/run_exSTR/run_WES_T192V1/sampleList.txt)
+Warning in for (i in 1:codeCount) { :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 124.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 124.
+Working on locus SBMA
+    Reduced replicates to 499.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+Loading required package: shiny
+
+Listening on http://192.168.99.10:8221
+
+载入程辑包：‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+载入需要的程辑包：shinyBS
+载入需要的程辑包：shinydashboard
+
+载入程辑包：‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+载入需要的程辑包：shinyjs
+
+载入程辑包：‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+Warning: 关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Warning: replacing previous import ‘checkmate::assert’ by ‘testit::assert’ when loading ‘exSTRa’
+
+载入程辑包：‘exSTRa’
+
+The following object is masked from ‘package:data.table’:
+
+    copy
+
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结7(/share_data/wujm/project/run_exSTR/run_WGS/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结6(/share_data/wujm/project/run_exSTR/run_NUOHE/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结5(/share_data/wujm/project/run_exSTR/run_WES_T192V1Plus/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结4(/share_data/wujm/project/run_exSTR/run_WES_T192V1/sampleList.txt)
+Warning in for (a in as.list(elist)) if (!missing(a) && mayCallBrowser(a,  :
+  关闭不再使用的链结3(/share_data/wujm/project/run_exSTR/run_WES_T345V1/sampleList.txt)
+Working on locus DM1
+    Reduced replicates to 249.
+Working on locus DRPLA
+Working on locus HD
+Working on locus HDL2
+Working on locus SBMA
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+    Reduced replicates to 124.
+Working on locus SCA7
+    Reduced replicates to 249.
+Working on locus SCA8
+Working on locus SCA12
+    Reduced replicates to 249.
+Working on locus SCA17
+Working on locus GDPAG
+Working on locus DRPLA
+    Reduced replicates to 124.
+Working on locus HD
+Working on locus HDL2
+    Reduced replicates to 62.
+Working on locus SBMA
+    Reduced replicates to 249.
+Working on locus SCA1
+Working on locus SCA3
+    Reduced replicates to 62.
+Working on locus SCA6
+Working on locus SCA7
+    Reduced replicates to 62.
+Working on locus SCA12
+assertion failed: The locus DM1 was not found
+Warning: Error in : dim(x.info)[1] >= 1 is not TRUE
+  104: stop
+  103: assert2
+  102: assert
+  101: loci_text_info.exstra_db
+   98: plot.exstra_score
+   96: renderImage [/share_data/wujm/project/Shiny/STR/exSTR_v0.1/server.R#252]
+   95: func
+   82: origRenderFunc
+   81: output$single_locus
+    1: shiny::runApp
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff3ebe8b02': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff3a33ac2': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff55405e57': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff7518b263': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff1516ff19': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff5d59181': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff19df7df2': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff5b8bd22f': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff3490c5b6': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff127647f2': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff155ee6ce': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff1a7c7eef': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff51955fce': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff185db24c': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff21323966': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff1ff65a95': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff62f19c5c': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff4038aec2': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff330e15d8': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff1ae6f0e7': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff6a418c91': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff82d5297': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff2b11a6a2': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff49ab1176': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff359c4fc6': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff52b85473': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff7fff21ec': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff2c844f06': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff356b7cb9': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
+Warning in file(open = "w+") :
+  无法打开文件'/tmp/RtmpOeTKRO/Rf2d3ff48265bc3': 没有那个文件或目录
+Warning: Error in file: 无法打开链结
+  [No stack trace available]
